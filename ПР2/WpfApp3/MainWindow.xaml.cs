@@ -30,14 +30,21 @@ namespace WpfApp3
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if(Birthday.SelectedDate == null || Name.Text == "" || Surname.Text == "")
+            try
             {
-                MessageBox.Show("Ни одно из полей не должно быть пустым!");
-                return;
+                if (Birthday.SelectedDate == null)
+                {
+                    throw new Exception("Дата рождения не выбрана.");
+                }
+        
+                Person employee = new Person(Name.Text, Surname.Text);
+                DateTime dob = Birthday.SelectedDate.Value;
+                MessageBox.Show($"Имя: {Person.FirstName}\nФамилия: {Person.LastName}\nВозраст: {employee.Age(dob)}");
             }
-            Person employee = new Person(Name.Text, Surname.Text);
-            DateTime dob = Birthday.SelectedDate.Value;
-            MessageBox.Show($"Имя: {Person.FirstName}\nФамилия: {Person.LastName}\nВозраст: {employee.Age(dob)}");
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ошибка: {ex.Message}");
+            }
         }
     }
 }
