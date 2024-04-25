@@ -1,0 +1,80 @@
+E:\пара\02 02\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+E:\пара\02 02\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+E:\пара\02 02\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+E:\пара\02 02\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+E:\пара\02 02\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+E:\пара\02 02\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+E:\пара\02 02\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+E:\пара\02 02\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+E:\пара\02 02\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+E:\пара\02 02\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+E:\пара\02 02\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+E:\пара\02 02\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+E:\пара\02 02\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+E:\пара\02 02\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+E:\пара\02 02\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+E:\пара\02 02\WpfApp3\WpfApp3\obj\Debug\WpfApp3_Content.g.cs
+C:\Users\у\Desktop\pr2\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\у\Desktop\pr2\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\у\Desktop\pr2\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\у\Desktop\pr2\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\у\Desktop\pr2\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\у\Desktop\pr2\WpfApp3\obj\Debug\App.g.cs
+C:\Users\у\Desktop\pr2\WpfApp3\obj\Debug\WpfApp3_Content.g.cs
+C:\Users\у\Desktop\pr2\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\у\Desktop\pr2\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\у\Desktop\pr2\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\у\Desktop\pr2\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\у\Desktop\pr2\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\у\Desktop\pr2\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\у\Desktop\pr2\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\у\Desktop\pr2\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\у\Desktop\pr2\WpfApp3\obj\Debug\WpfApp3.pdb
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\bin\Debug\WpfApp3.exe.config
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\bin\Debug\WpfApp3.exe
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\bin\Debug\WpfApp3.pdb
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\obj\Debug\MainWindow.g.cs
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\obj\Debug\App.g.cs
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\obj\Debug\WpfApp3_Content.g.cs
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\obj\Debug\MainWindow.baml
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\obj\Debug\WpfApp3.g.resources
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\obj\Debug\WpfApp3.exe
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\bye bye\pr2\WpfApp3\obj\Debug\WpfApp3.pdb
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\bin\Debug\WpfApp3.exe.config
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\bin\Debug\WpfApp3.exe
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\bin\Debug\WpfApp3.pdb
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\MainWindow.g.cs
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\App.g.cs
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3_Content.g.cs
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\MainWindow.baml
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.g.resources
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.exe
+\\sdc\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.pdb
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\bin\Debug\WpfApp3.exe.config
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\bin\Debug\WpfApp3.exe
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\bin\Debug\WpfApp3.pdb
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\MainWindow.g.cs
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\App.g.cs
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3_Content.g.cs
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\MainWindow.baml
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.g.resources
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.exe
+\\192.168.1.200\Student\! 3 курс\! ИСиП-21-1П\!МДК 02.02 ИСРПО\Работа студентов\Студенты\Журавлев Марк\Журавлев ПР2\ПР2\WpfApp3\obj\Debug\WpfApp3.pdb
